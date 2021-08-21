@@ -9,18 +9,18 @@ L’objectif est de réaliser et d’analyser les différentes appréciations ob
 # Contexte d’étude
 La sensométrie regroupe l’ensemble des méthodes mathématiques et statistiques pour l’analyse des données sensorielles et de préférence. C’est un élément stratégique du développement des entreprises du secteur agroalimentaire et de l’industrie. Elle est à la croisée des chemins entre la recherche, développement et le marketing.
 Ce projet repose sur l’étude sensométrique de trois différentes tapenades en outre :
-    *.✓ La T1, c’est l’olivade sans anchois et aux épices qui vient de chez Grand Frais,
-    *.✓ La T2, c’est la tapenade de chez Aymeric, avec anchois
-    *.✓ La T3, c’est la grecque, pures olives Kalamata.
+    *La T1, c’est l’olivade sans anchois et aux épices qui vient de chez Grand Frais,
+    *La T2, c’est la tapenade de chez Aymeric, avec anchois
+    *La T3, c’est la grecque, pures olives Kalamata.
 
 L’étude sensométrique repose sur les différentes caractéristiques :
-    *.✓ Les caractéristiques des dégustateurs
-    *.✓ Les caractéristiques gustatives
-    *.✓ Les caractéristiques olfactives
-    *.✓ Les caractéristiques visuelles
-    *.✓ Les caractéristiques finalités en bouche
+    *Les caractéristiques des dégustateurs
+    *Les caractéristiques gustatives
+    *Les caractéristiques olfactives
+    *Les caractéristiques visuelles
+    *Les caractéristiques finalités en bouche
  
 # Problématique
 Le problème général vise à connaître les différences perçues entre les tapenades en :
-*.✓ Évaluant les différences générales relevées au vu des notes et des appréciations que les dégustateurs ont mises,
-*.✓ Évaluant plus finement si les goûts changent selon l’âge, le sexe, la CSP et les habitudes de consommation.
+*Évaluant les différences générales relevées au vu des notes et des appréciations que les dégustateurs ont mises,
+*Évaluant plus finement si les goûts changent selon l’âge, le sexe, la CSP et les habitudes de consommation.
