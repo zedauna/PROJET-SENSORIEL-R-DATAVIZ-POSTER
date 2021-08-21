@@ -24,3 +24,6 @@ L’étude sensométrique repose sur les différentes caractéristiques :
 Le problème général vise à connaître les différences perçues entre les tapenades en :
 * Évaluant les différences générales relevées au vu des notes et des appréciations que les dégustateurs ont mises,
 * Évaluant plus finement si les goûts changent selon l’âge, le sexe, la CSP et les habitudes de consommation.
+
+#Concours Posters
+[Gagnant concours Posters ](https://www.facebook.com/IutStidCarcassonne/photos/a.1044526862398061/1434217843428959)
